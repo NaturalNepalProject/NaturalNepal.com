@@ -1,0 +1,19 @@
+.pic1 img{
+	width: 500px;
+	height: auto;
+}
+.pic2 img{
+	float: right;
+	width: 500px;
+	height: auto;
+	margin-bottom: 50px;
+}
+.pic3 img{
+	width: 500px;
+	height: auto;
+}
+
+.pic4 img{
+	height: auto;
+	float: right;
+}
